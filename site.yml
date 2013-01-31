@@ -1,0 +1,16 @@
+title : Lee.Meng::Blog
+tagline: A man's dreams are index to his greatness！人生到处如何似，恰似飞鸿踏雪泥
+author :
+  name : Lee Meng
+  email : leaveboy@gmail.com
+  github : leaveboy
+  twitter : leaveboy
+  weibo: leavemeng
+  feedburner : leemeng
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md

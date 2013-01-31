@@ -1,0 +1,15 @@
+---
+# Usage: http://ruhoh.com/usage/configure/ 
+
+RuhohSpec: '1.0'
+#theme : hooligan
+theme : twitter
+production_url : http://leaveboy.github.com
+
+posts:
+  permalink: /blog/:year/:month/:day/:title
+  summary_lines: 10
+  latest: 10
+
+pages:
+  permalink: 'pretty'
