@@ -1,12 +1,12 @@
 layout : disqus
 disqus :
-  short_name : jekyllbootstrap
+  short_name : leaveboy
 livefyre :
   site_id : 123
 intensedebate :
   account : 123abc
 facebook :
-  appid : 123
+  appid : leaveboy
   num_posts: 5
   width: 580
   colorscheme: light

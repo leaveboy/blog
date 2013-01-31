@@ -38,6 +38,7 @@ body {
 .post > h3.title {
   position:relative;
   padding-top:10px;
+  border-top:3px solid #eee;
 }
 .post > h3.title span.date { 
   position:absolute;

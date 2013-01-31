@@ -8,7 +8,7 @@ RuhohSpec: "2.0.alpha"
 # Used for things like RSS that need the full URL to a given resource.
 # This DOES NOT affect any of your paths or links in any way.
 # This DOES NOT configure domain mapping. See post2.ruhoh.com for hosting options.
-production_url: "http://sample.com"
+production_url: "http://leaveboy.github.com"
 
 # Intelligently prepends all urls in the system with the given base_path.
 # This allows you to host your blog in a subdirectory of a given website.
@@ -22,12 +22,12 @@ theme:
   name: "twitter"
 
 posts:
-  permalink: "/:categories/:title/"
-  summary_lines: 20
+  permalink: "/blog/:year/:month/:day/:title"
+  summary_lines: 10
   latest: 5
 
 pages:
-  summary_lines: 20
+  summary_lines: 10
 
 paginator:
   # The namespace your paginated pages will be located: e.g /posts/1, /posts/2, /posts/3
