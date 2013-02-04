@@ -2,8 +2,8 @@
 title: 礼拜天雨后
 date: '2006-09-03'
 description: 刚刚毕业时，虽条件艰苦，但还是很能满足
-categories: [mood]
-tags: [life]
+categories: [life]
+tags: [friend]
 ---
 
 今天礼拜！！早上9：00多才起来！没吃到早饭，所以等到11：00的时候就开始在楼道里喊人一起吃饭了……

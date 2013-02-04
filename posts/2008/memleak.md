@@ -2,8 +2,8 @@
 title: 使用 memleak 检查和调试内存泄漏
 date: '2008-11-26'
 description: 嵌入式程序调试利器
-categories: [code]
-tags: [embanded system]
+categories: [technology]
+tags: [code]
 ---
 
 ## memleak

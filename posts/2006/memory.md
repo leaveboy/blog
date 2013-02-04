@@ -2,8 +2,8 @@
 title: 永恒的回忆
 date: '2006-10-09'
 description: 永恒的回忆
-categories: [mood]
-tags: [life]
+categories: [life]
+tags: [memory]
 ---
 
 ![永恒的回忆](/assets/media/2006/07.jpg)   

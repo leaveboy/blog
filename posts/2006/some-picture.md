@@ -2,8 +2,8 @@
 title: 前段时间玩的时候的一些照片
 date: '2006-09-25'
 description: 每次看到当时的自己，原来我也曾是一个帅哥啊
-categories: [mood]
-tags: [life]
+categories: [life]
+tags: [travel]
 ---
 
 ![梦幻水城](/assets/media/2006/01.jpg)    

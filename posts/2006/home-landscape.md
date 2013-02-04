@@ -2,8 +2,8 @@
 title: 故乡的原风景
 date: '2006-09-10'
 description: 天籁之音
-categories: [mood]
-tags: [life]
+categories: [life]
+tags: [mood]
 ---
 
 ##故乡的原风景-宗次郞

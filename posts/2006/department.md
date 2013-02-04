@@ -2,7 +2,7 @@
 title: 前几天分部门了！
 date: '2006-08-05'
 description: 第一份工作分部门还是有点小激动
-categories: [mood]
+categories: [life]
 tags: [work]
 ---
 

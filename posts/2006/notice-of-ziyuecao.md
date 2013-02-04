@@ -2,8 +2,8 @@
 title: 蝶紫草的提醒！！ 
 date: '2006-09-25'
 description: 往事历历在目，不知道大家是否如旧
-categories: [MOOD]
-tags: [life]
+categories: [life]
+tags: [friend]
 ---
 
 

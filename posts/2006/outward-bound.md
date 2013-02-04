@@ -2,8 +2,8 @@
 title: 拓展
 date: '2006-12-05'
 description: 石岩湖拓展还是蛮锻炼人的
-categories: [work]
-tags: [life]
+categories: [life]
+tags: [work]
 ---
 
 ![被踩](/assets/media/2006/t1.jpg)    

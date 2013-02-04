@@ -2,8 +2,8 @@
 title: statfs获得硬盘使用情况 模拟linux命令 df （2011.3.24修正）
 date: '2009-10-10'
 description: statfs获得硬盘使用情况
-categories: [code]
-tags: [linux, code]
+categories: [technology]
+tags: [code]
 ---
 
 ## statfs:

@@ -2,8 +2,8 @@
 title: 午夜 不想睡觉 
 date: '2006-12-27'
 description: Lost Without You
-categories: [mood]
-tags: [life]
+categories: [life]
+tags: [memory]
 ---
 
 ![innocent eyes](/assets/media/2006/08.jpg)    

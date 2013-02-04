@@ -2,8 +2,8 @@
 title: A place nearby - Lene Marlin 
 date: '2008-02-28'
 description: 一首很喜欢的歌
-categories: [mood,music]
-tags: ["A place nearby","天堂若比邻"]
+categories: [life]
+tags: ["mode","music"]
 ---
 
 ## **A place nearby - Lene Marlin 天堂若比邻(琳恩．玛莲)**

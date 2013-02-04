@@ -2,8 +2,8 @@
 title: 杂感
 date: '2007-07-02'
 description: 午夜的一些碎碎念
-categories: [mood]
-tags: [feeling]
+categories: [life]
+tags: [mood]
 ---
 
 不知道为什么现在还是不想睡觉！刚刚在几个熟识的BLOG上面忽悠过后，有些莫名的感触！

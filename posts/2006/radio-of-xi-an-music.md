@@ -2,8 +2,8 @@
 title: 流行纪念册
 date: '2006-10-17'
 description: 你以为它消失了，其实它还在……
-categories: [music mood]
-tags: [life]
+categories: [life]
+tags: [mood]
 ---
 
 一直以来，怀旧似乎是大多数人的一种习惯。怀旧是一张网，试图打捞失去的岁月；怀旧又是一本纪念册，想要记录流逝的时光。

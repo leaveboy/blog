@@ -2,8 +2,8 @@
 title: 不眠夜
 date: '2007-06-02'
 description: 深圳夏夜无电，是多么恐怖的一件事情
-categories: [mood]
-tags: [life]
+categories: [life]
+tags: [mood]
 ---
 
 最近工作的事情比较顺利！没什么要说的！前段时间的项目熟悉！直到昨天有了进展，MS是最近能令我们这组人高兴的事情！
