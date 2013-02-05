@@ -18,7 +18,7 @@ all:
 .PHONE:install
 install:
 	rm ${target}/* -fr
-	cp ${src}/* ${target} -fr
+	cp ${src}* ${target} -fr
 
 .PHONE:clean
 clean:
@@ -27,3 +27,7 @@ clean:
 .PHONE:push
 push:
 	cd ${target} && git add . && git commit -a -m "update" && git push
+
+.PHONE:test
+test:
+	bundle exec rackup -p 9292 > /dev/null&
