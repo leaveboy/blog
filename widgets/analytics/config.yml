@@ -1,5 +1,6 @@
 layout : google
 google : 
-    tracking_id : 'UA-123-12'
+    #tracking_id : 'UA-123-12'
+    tracking_id : 'UA-38241924-1'
 getclicky :
   site_id :
