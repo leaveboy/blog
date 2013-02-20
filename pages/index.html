@@ -10,7 +10,7 @@ description: 人生到处如何似，恰似飞鸿踏雪泥
   {{{ summary }}}
 
   <div class="more">
-    <a href="{{url}}" class="btn btn-small">read more..</a>
+    <a href="{{url}}" class="btn btn-small">read more..</a> (<a href="{{url}}/#disqus_thread">Commits</a>) 
   </div>
 </div>
 {{/ posts.paginator }}
@@ -27,3 +27,16 @@ description: 人生到处如何似，恰似飞鸿踏雪泥
   {{/posts.paginator_navigation}}
   </ul>
 </div>
+
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'leaveboy'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+ var s = document.createElement('script'); s.async = true;
+ s.type = 'text/javascript';
+ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+ (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+ }());
+</script>

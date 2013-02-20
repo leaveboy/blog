@@ -5,6 +5,8 @@ description: 永恒的回忆
 categories: [life]
 tags: [memory]
 ---
+###Radio of Xi'an music
+some memory
 
 ![永恒的回忆](/assets/media/2006/07.jpg)   
 浏览七色鸟时，瞧见到这张图片！感觉颜色搭配和文字恰似这个季节的深圳！虽未见有落叶飘零如西安那般奚落！但夜幕降临时的秋凉，却时时让人惬意非常!

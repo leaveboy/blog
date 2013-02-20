@@ -6,9 +6,9 @@ categories: [technology]
 tags: [code]
 ---
 
-## statfs:
+### statfs:
 
-### 结构：
+#### 结构：
 
     #include <sys/vfs.h>    /* 或者 <sys/statfs.h> */
 
@@ -17,7 +17,7 @@ tags: [code]
 
  
 
-### 参数：  
+#### 参数：  
     `path`: 位于需要查询信息的文件系统的文件路径名。    
     `fd`： 位于需要查询信息的文件系统的文件描述词。
     `buf`：以下结构体的指针变量，用于储存文件系统相关的信息

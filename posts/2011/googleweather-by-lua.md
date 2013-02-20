@@ -5,7 +5,7 @@ description: google天气API
 categories: [technology]
 tags: [lua]
 ---
-
+###lua获取天气
 昨天写了一个lua的天气脚本，主要是获取[http://qq.ip138.com](http://qq.ip138.com)天气信息，基本功能都已实现，但是唯一不足之处，就是不能显示当前的天气及气温。所以今天在网上找了下这方面的资料，发现google天气API获得满足了这个需求，于是就有折腾了下。google API特点：当天气和气温是实时的，明后几天是温度区间。
 
 上代码先

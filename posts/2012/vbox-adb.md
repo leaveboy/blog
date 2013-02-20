@@ -7,6 +7,7 @@ tags: [android]
 ---
 ###前提条件:
 ubuntu 在vbox XP下使用`adb shell`
+
 ###问题说明:
     C:\Documents and Settings\Administrator>adb devices
     List of devices attached

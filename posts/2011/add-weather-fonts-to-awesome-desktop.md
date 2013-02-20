@@ -5,9 +5,10 @@ description: 用weather.ttf给awesome润色
 categories: [technology]
 tags: [awesome]
 ---
-
+###awesome rc.lua
 这个脚本加入了词霸的屏幕取词，绑定PrtSc键抓图，还有天气显示！解决了前两天一直琢磨的字体天气问题！   
 上张现在桌面图：
+
 ![awesome desktop screenshot](http://leaveboy.is-programmer.com/user_files/leaveboy/Image/PrtSc/fullsc.png "screenshot")
 
 awesome 的配置文件 rc.lua

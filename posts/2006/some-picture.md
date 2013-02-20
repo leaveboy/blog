@@ -6,6 +6,9 @@ categories: [life]
 tags: [travel]
 ---
 
+###一些游玩图片
+珠海游
+
 ![梦幻水城](/assets/media/2006/01.jpg)    
 和小夫的照片！呵呵！可惜没能在玩的时候照到相片！有些可惜！    
 

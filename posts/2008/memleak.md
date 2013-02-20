@@ -6,13 +6,13 @@ categories: [technology]
 tags: [code]
 ---
 
-## memleak
+### memleak
 
-### 使用范围：
+#### 使用范围：
 小型的嵌入式应用中经常会出现许多内存问题，很多情况下难以定位问题出现在哪里。
 我在 [sourceforge](http://sourceforge.net/)上找了些检测 C 内存泄漏的工具，感觉比较易用的是 [memleak](http://sourceforge.net/projects/memleak/)，下面就来简要介绍一下它的使用。
 
-### 用法：
+#### 用法：
 下载得到的 `memleak` 压缩包大小不到 15 kB，解压后只有两个文件：`memleak.c` 和 `memleak.h`。在使用过程中只需要包含头文件 `memleak.h` 就可以使用 `memleak` 提供的几个易用而有效的内存检测函数了。
 
 `memleak` 的原理是利用 `C` 语言的宏调用来替代原有的函数调用，比如我们在代码中调用 `malloc(s)`，实际是调用了：`dbg_malloc(s)`，这个宏定义在 `memleak.h` 中给出：

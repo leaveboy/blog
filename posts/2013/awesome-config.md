@@ -7,8 +7,9 @@ tags: [awesome]
 ---
 
 ###awesome config 3.5
-由于时间原因,前几天将升级后awesome 3.5回退到3.4.但总感觉不爽,所以昨天终于
-忍不住又折腾了一下,把所有的控件都整安逸.还是有点点收获.先上张图   
+由于时间原因,前几天将升级后awesome 3.5回退到3.4.但总感觉不爽,所以昨天终于 
+忍不住又折腾了一下,把所有的控件都整安逸.还是有点点收获.先上张图
+
 ![awesome screenshot](https://raw.github.com/leaveboy/awesome3.5/master/fullsc.png)   
  awesome 3.5修正了2个 3.4上一直存在的两个问题
 

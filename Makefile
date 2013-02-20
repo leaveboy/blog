@@ -30,4 +30,4 @@ push:
 
 .PHONE:test
 test:
-	bundle exec rackup -p 9292 > /dev/null&
+	bundle exec rackup -p 9292
