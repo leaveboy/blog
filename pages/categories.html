@@ -12,7 +12,20 @@ description:
   <h3>{{ name }} ({{ count }})</h3>
   <ul>
     {{# posts?to_posts }}
-      {{> posts_list }}
+      <!--{{> posts_list }}-->
+    <li><a href="{{url}}">{{title}}</a> (<a href="{{url}}/#disqus_thread">Commits</a>) </li>
     {{/ posts?to_posts }}
   </ul>
 {{/ posts.categories.all }}
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'leaveboy'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+ var s = document.createElement('script'); s.async = true;
+ s.type = 'text/javascript';
+ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+ (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+ }());
+</script>
