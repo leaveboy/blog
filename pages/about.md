@@ -3,20 +3,20 @@ title : About Me
 description: SomeThing About Lee.Meng
 ---
 
-## A Linux User
+### A Linux User
  * Love open software and enjoy it.
  * Used Version:Redhat,Ubuntu,Fordra,CentOS,LFS. Now use Archlinux.
 
-## A Vim User
+### A Vim User
  * Vim is my first editor on linux.
  * It's code blog and document tools.
         
-## A Geek
+### A Geek
  * I suppose that it's  the best interpretation for me.
 
-## Awesome User
+### Awesome User
  * awesome is my first Window Manager. It's a KISS WM.
 
-## Contact Me
+### Contact Me
  * leaveboy [AT] gmail [dot] com
 
