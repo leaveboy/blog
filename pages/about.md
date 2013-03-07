@@ -1,6 +1,6 @@
 ---
-title : About Me
-description: SomeThing About Lee.Meng
+title : 关于我
+description: Something About Lee.Meng
 ---
 
 ### A Linux User
