@@ -23,11 +23,11 @@ theme:
 
 posts:
   permalink: "/blog/:year/:month/:day/:title"
-  summary_lines: 1
+  summary_lines: 20
   latest: 5
 
 pages:
-  summary_lines: 1
+  summary_lines: 20
 
 paginator:
   # The namespace your paginated pages will be located: e.g /posts/1, /posts/2, /posts/3
