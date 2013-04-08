@@ -16,6 +16,7 @@ categories: technology
     aptitude install byzanz # Debian/Ubuntu
     yum install byzanz # Fedora
     emerge -av byzanz # Gentoo/Funtoo
+    pacman -S byzanz #Archlinux
 
 Arch Linux 用户可在 AUR 中找到 Byzanz。如果你不能在自己所用的 Linux 发行版包仓库中找到 Byzanz，那么可以获取其源代码，自行编译。
 
