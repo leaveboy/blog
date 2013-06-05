@@ -9,7 +9,7 @@
 #      History:
 #=============================================================================
 src = /tmp/compiled/
-target = ../leaveboy.github.com
+target = ../leemeng0x61.github.io
 
 all:
 	@bundle exec ruhoh compile '${src}'
